@@ -16,8 +16,8 @@ This project demonstrates an end-to-end machine learning workflow using AWS Sage
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/OnurAsimIlhan/aws-sagemaker.git
+    cd aws-sagemaker
     ```
 
 2. **Create and activate a virtual environment:**
